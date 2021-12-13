@@ -13,14 +13,14 @@
   * Users can add details to tasks using keyboard
   * Users can edit details to tasks using keyboard
   * Users can not remove tasks (delete cells in UITableView object)
-  ~issue with enumerations problems when indexing UITableView and keys
+    * ~issue with enumerations problems when indexing UITableView and keys
   * There is a login screen
-  ~No actual functionality and demonstrates basic navigation
+    * ~No actual functionality and demonstrates basic navigation
   * There is an account creation screen
   * There is a main/home screen
-  ~Future iterations would improve UI elements
+    * ~Future iterations would improve UI elements
   * Basic background image
-  ~issues with applying to login and creation screens
+    * ~issues with applying to login and creation screens
 #### Future Updates
   * Firebase implementation
   * enhanced UI/UX
