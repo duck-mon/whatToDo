@@ -27,3 +27,5 @@ Users can create tasks (generate cells in UITableView object)
   * Exportation of lists
   * Implement account hashing locally then with Firebase
   * removal of tasks
+---
+# [Click for Project Proposal](https://github.com/duck-mon/main/blob/main/What%20Am%20I%20Doing_%20-%20New%20Project%20Proposal.pdf)
