@@ -9,7 +9,7 @@
   * No verfication/ account hashing
   ~future work would include implementation with an cloud database. Ideally, fireBase.
 #### Functions
-Users can create tasks (generate cells in UITableView object)
+  * Users can create tasks (generate cells in UITableView object)
   * Users can add details to tasks using keyboard
   * Users can edit details to tasks using keyboard
   * Users can not remove tasks (delete cells in UITableView object)
